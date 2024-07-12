@@ -10,11 +10,11 @@ A computer hardware business is facing challenges to scale in a dynamically chal
 ##
 ACTION
 ##
-Conducted data analysis using SQL to monitor revenue growth, year-over-year (YOY) trends, and regional sales performance.
+🔹Conducted data analysis using SQL to monitor revenue growth, year-over-year (YOY) trends, and regional sales performance.
 
-Transformed data utilizing Power Query by performing tasks such as removing duplicates, changing data types, and replacing values.
+🔹Transformed data utilizing Power Query by performing tasks such as removing duplicates, changing data types, and replacing values.
 
-Developed an automated dashboard in Power BI to facilitate informed decision-making
+🔹Developed an automated dashboard in Power BI to facilitate informed decision-making
 ##
 RESULTS
 ##
