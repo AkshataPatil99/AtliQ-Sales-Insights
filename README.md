@@ -6,7 +6,7 @@
 ##
 BUSINESS SITUATION
 ##
-A computer hardware business is facing challenges to scale in a dynamically challenging market and lack actionable insights.
+AtliQ computer hardware business is facing challenges to scale in a dynamically challenging market and lack actionable insights.
 ##
 ACTION
 ##
