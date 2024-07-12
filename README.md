@@ -1,4 +1,6 @@
 # AtliQ-Sales-Insights
 ##
-"C:\Users\ap446\OneDrive\Desktop\DATA ANALYST PROJECTS\Sales_insights _Atliq.jpg"
+![image](https://github.com/user-attachments/assets/3c11d003-a0ff-42e8-acc4-9956778cd0ec)
 ##
+# SQL | Power BI
+
